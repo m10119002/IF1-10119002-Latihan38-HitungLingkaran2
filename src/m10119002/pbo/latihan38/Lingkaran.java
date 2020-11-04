@@ -8,6 +8,12 @@ package m10119002.pbo.latihan38;
 /**
  *
  * @author
+ * NAMA     : Firman Sahita
+ * KELAS    : IF-1
+ * NIM      : 10119002
+ * Deskripsi Program : Class untuk objek Lingkaran
+ * 
+ * 
  */
 public class Lingkaran {
     public int diameter;
